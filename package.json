@@ -1,13 +1,13 @@
 {
-    "name": "HastaStudiosLauncher",
-    "version": "3.1.0",
-    "productName": "Hasta Studios Launcher",
-    "description": "Oficial Laucnher For All Hasta Studios Projects",
-    "author": "Shisuys (https://github.com/shisuiicaro/)",
+    "name": "HerosiaLauncher",
+    "version": "0.1.0",
+    "productName": "Herosia Launcher",
+    "description": "Launcher pour Herosia Network",
+    "author": "Daniel Scalzi (https://github.com/dscalzi/) et Scarfac",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/Shisuiicaro/HastaStudiosLauncher",
+    "homepage": "https://github.com/ArsLilith/HerosiaLauncher",
     "bugs": {
-        "url": "https://discord.gg/hastastudios"
+        "url": "https://discord.gg/gtSACjbrCA"
     },
     "private": true,
     "main": "index.js",
@@ -46,6 +46,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Shisuiicaro/HastaStudiosLauncher.git"
+        "url": "git+https://github.com/ArsLilith/HerosiaLauncher.git"
     }
 }
